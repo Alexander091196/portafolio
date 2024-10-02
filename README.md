@@ -1,3 +1,5 @@
+##GitHub
+
 echo "# portafolio" >> README.md
 
 
@@ -26,3 +28,10 @@ git branch -M main
 
 
 git push -u origin main
+
+
+##Boxicons
+
+Iconos:
+
+https://boxicons.com/usage
